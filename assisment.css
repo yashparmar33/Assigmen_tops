@@ -1,0 +1,54 @@
+label{
+    margin: 20px; 
+    
+
+}
+div{background-color: rgb(219, 210, 210);}
+h1{
+     text-align: center;
+     color: red;
+     text-decoration:underline ;
+     align-items: center;
+
+}
+form{
+    border: none;
+    resize: none;
+}
+.text{
+    width: 50%;
+    margin-left: 150px;
+}
+.Gender{
+    margin-left: 150px;
+    padding: 20px; 
+}
+.input1{
+    width: 50%;
+    height: 30px;
+    margin-left: 150px;
+
+}
+select{
+    margin-left: 150px;
+}
+.check{
+    margin-left: 150px;
+}
+.password{
+    height: 30px;
+    width: 50%; 
+    margin-left: 150px; 
+}
+.Registered{
+    background-color: rgb(3, 255, 3);
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    margin-left: 10px;
+    margin: 20px;
+    z-index: 30;
+    cursor: pointer
+}
